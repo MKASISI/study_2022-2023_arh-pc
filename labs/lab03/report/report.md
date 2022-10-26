@@ -109,6 +109,12 @@ header-includes:
 
 9. Заполнели отчет и скомпилировали его с использовние Makefile.
 
+10. Загрузили на github отчет. 
+
+![ GitHub ](image/8.png){ #fig:008 width=90% }
+ 
+![ Терминал ](image/9.png){ #fig:009 width=90% }
+
 
 
 
